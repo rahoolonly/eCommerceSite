@@ -1,0 +1,19 @@
+{
+  "name": "ecommercesite",
+  "version": "1.0.0",
+  "description": "This is a ecommerce site which works similar as amazon, flipkart.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rahoolonly/ecommerce.git"
+  },
+  "author": "Rahool Only",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahoolonly/ecommerce/issues"
+  },
+  "homepage": "https://github.com/rahoolonly/ecommerce#readme"
+}
